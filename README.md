@@ -1,1 +1,1 @@
-# Simple-Registration-and-Login-uding-JDBC-Servlet-and-JSP
+# Simple-Registration-and-Login-using-JDBC-Servlet-and-JSP
